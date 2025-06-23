@@ -136,11 +136,3 @@ Failed chunks are automatically retried up to 3 times before being reported as f
 **Permission errors:**
 - Ensure you have write permissions in the target directory
 - Check available disk space
-
-## Contributing
-
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## Author
-
-Created by Hassan Nafees
