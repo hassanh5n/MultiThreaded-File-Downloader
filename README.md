@@ -1,6 +1,6 @@
 # Multi-threaded File Downloader
 
-A high-performance, multi-threaded file downloader written in C that supports resumable downloads and automatic retry mechanisms.
+A high-performance, multi-threaded, segmented file downloader written in C that supports resumable downloads and automatic retry mechanisms.
 
 ## Features
 
